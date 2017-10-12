@@ -67,7 +67,7 @@
 
 # 作品
 
-- <a href="https://github.com/jumpplus" target="_blank"><B>個人介紹網頁</B> (GitHub)</a> <BR>
+- <a href="https://github.com/jumpplus/about_me" target="_blank"><B>個人介紹網頁</B> (GitHub)</a> <BR>
 ⌞ 關於我。<BR>
 
 - <a href="https://b790428.000webhostapp.com/restaurant/index.html" target="_blank"><B>六角西餐廳</B> (RWD)</a> <BR>
