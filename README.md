@@ -15,10 +15,9 @@
 - 運用 HTML、CSS、JavaScript，在 APP 內嵌 Web ，打造圖形化的網頁圖表。
 - 掌握前端設計師、後端工程師的工作進度時程，並控管專案內容。
 - 導入 Google 分析，觀察客戶行為，提高客戶的留存率及產品優化的流程。
-- 使用 Crashlytics 錯誤回報軟體，有效率的監控程式 Bug，立即排除線上問題。
+- 使用 Crashlytics 錯誤回報軟體，有效的監控程式 Bug，立即排除線上問題。
 - 協助研發軟體新技術與新工具，以提升執行效益及產品優化。
-- 負責部門導入 IBM RTC 版本控管軟體，及撰寫操作文件。<BR>
-- 上架作品：<a href="https://itunes.apple.com/app/id1112079411" target="_blank"><B>股票快選APP</B> (iOS)</a>、<a href="https://itunes.apple.com/app/id926704674" target="_blank"><B>股票抽籤APP</B> (iOS)</a>、<a href="https://itunes.apple.com/app/id1023598964" target="_blank"><B>線上開戶APP</B> (iOS)</a>、<a href="https://itunes.apple.com/app/id1080915135" target="_blank"><B>法人業務APP</B> (iOS)</a>
+- 負責部門導入 IBM RTC 版本控管軟體，及撰寫操作文件。
 
 ☐ 技術：Objective-C、HTML、CSS、JavaScript、XML、JSON、AJAX。
 
@@ -40,7 +39,7 @@
 ### HTML、CSS
 - 瞭解 HTML 語意。
 - 能夠使用 HTML、CSS 做出網頁排版，及 RWD 響應式的網頁設計，兼容平板與手機版型。
-- 會使用 SASS 設計 RWD 網頁版型。
+- 會使用 SCSS 設計 RWD 網頁版型。
 
 ### JavaScript/Framework
 - 瞭解 JavaScript 基礎語法，並使用 JavaScript、jQuery、CSS 呈現網頁互動效果。
@@ -58,7 +57,7 @@
 - 熟悉 Objective-C 語法，做出無數個APP（互動性的電子書、電子雜誌、產品展示、股票申購、選股...等等）。
 - 運用 JSON/AJAX 串接後端資料庫、第三方 API 的資料，即時呈現最新資料動態。
 - 能夠串接第三方 API，實現各種應用 (Facebook、Google Map、Google Analytics、Flurry Analytics、Crashlytics )。
-- 可開發 iPhone、iPad APP，兼容 Apple 手機與平板的應用程式。
+- 可開發 iPhone、iPad、Apple Watch APP，兼容 Apple 手機、平板、手錶的應用程式。
 - APP 效能調教，減少 APP 容量，提升執行效率與流暢度。
 - 瞭解 APP Store 上架流程，能將產品上架至 APP Store。
 
@@ -78,15 +77,47 @@
 ⌞ 根據網站需求，建立關聯式的資料庫與資料表，並且設計 DB Schema，與撰寫規格文件。<BR>
 ⌞ 能夠將圖檔上傳到 Web Server，與檔名寫入資料庫、取出上傳圖檔，在前端畫面展現。<BR>
 ⌞ 會員註冊資料寫入資料庫，並且使用 Session 會員登入機制。<BR>
-⌞ 透過資料庫與ADO.NET，實現出產品搜尋引擎功能。<BR>
+⌞ 透過資料庫與ADO.NET串接，實現出產品搜尋引擎功能。<BR>
 
 - <a href="https://b790428.000webhostapp.com/travel/index.html" target="_blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
-⌞ HTML、CSS(SASS)、JavaScript 建立響應式的旅遊網站。 <BR>
+⌞ HTML、CSS(SCSS)、JavaScript 建立響應式的旅遊網站。<BR>
 ⌞ 使用政府開放資料，透過 JSON/AJAX 介接，呈現在網站上。<BR>
 
 - <a href="https://b790428.000webhostapp.com/bmi/index.html" target="_blank"><B>BMI 計算</B></a><BR>
 ⌞ 透過 Javascript 實現數學計算，將計算結果儲存在 Local Storage，於下次造訪網頁，能觀看上次計算結果。<BR>
 
+- <a href="https://itunes.apple.com/app/id1112079411" target="_blank"><B>股票快選APP</B> (iOS)</a><BR>
+⌞ 原生 Objective-C Native Code 開發，並且使用 Socket 技術串接後端資料。<BR>
+⌞ 運用 HTML、CSS、JavaScript，在 APP 內嵌 Web ，打造圖形化的網頁圖表。<BR>
+⌞ 使用推播通知功能，發送焦點新聞通知，以及廣告推播通知。<BR>
+⌞ 使用 Calendar Open Source，呈現與設計文件一致的日曆樣式與效果。<BR>
+⌞ 透過 Facebook API 介接，實現快速登入功能。<BR>
+⌞ 透過 Google Analytics API 介接，觀察客戶行為，提高客戶的留存率及產品優化的流程。<BR>
+⌞ 使用 Crashlytics 錯誤回報軟體，有效的監控程式 Bug，立即排除線上問題。<BR>
+⌞ 應用程式可兼容 iPhone、iPad，適用於各 Apple 行動裝置。<BR>
+
+- <a href="https://itunes.apple.com/app/id926704674" target="_blank"><B>股票抽籤APP</B> (iOS)</a><BR>
+⌞ 原生 Objective-C Native Code 開發，並且使用 Socket 技術串接後端資料。<BR>
+⌞ 開發 Widget 功能，可在手機桌面使用 Widget 小工具。<BR>
+⌞ 透過推播通知功能，即時通知最新申購標。<BR>
+⌞ 透過 Facebook API 介接，實現快速登入功能、APP分享到Facebook功能。<BR>
+⌞ 透過 Google Analytics API 介接，觀察客戶行為，提高客戶的留存率及產品優化的流程。<BR>
+⌞ 使用 Crashlytics 錯誤回報軟體，有效的監控程式 Bug，立即排除線上問題。<BR>
+⌞ 應用程式可兼容 iPhone、iPad、Apple Watch，適用於各 Apple 行動裝置與手錶。<BR>
+
+- <a href="https://itunes.apple.com/app/id1023598964" target="_blank"><B>線上開戶APP</B> (iOS)</a><BR>
+⌞ 原生 Objective-C Native Code 開發，並且使用 Socket 技術串接後端資料。<BR>
+⌞ 透過 Google Analytics API 介接，觀察客戶行為，提高客戶的留存率及產品優化的流程。<BR>
+⌞ 使用 Crashlytics 錯誤回報軟體，有效的監控程式 Bug，立即排除線上問題。<BR>
+⌞ 應用程式可兼容 iPhone、iPad，適用於各 Apple 行動裝置。<BR>
+
+- <a href="https://itunes.apple.com/app/id1080915135" target="_blank"><B>法人業務APP</B> (iOS)</a><BR>
+⌞ 原生 Objective-C Native Code 開發，並且使用 Socket 技術串接後端資料。<BR>
+⌞ 使用 WebView 實現 PDF 檔案線上閱讀。<BR>
+⌞ 使用 Calendar Open Source，呈現與設計文件一致的日曆樣式與效果。<BR>
+⌞ 透過 Google Analytics API 介接，觀察客戶行為，提高客戶的留存率及產品優化的流程。<BR>
+⌞ 使用 Crashlytics 錯誤回報軟體，有效的監控程式 Bug，立即排除線上問題。<BR>
+⌞ 應用程式可兼容 iPhone、iPad，適用於各 Apple 行動裝置。<BR>
 
 # 獲獎紀錄
 
