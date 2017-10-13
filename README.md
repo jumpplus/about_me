@@ -100,7 +100,7 @@
 ⌞ 原生 Objective-C Native Code 開發，並且使用 Socket 技術串接後端資料。<BR>
 ⌞ 開發 Widget 功能，可在手機桌面使用 Widget 小工具。<BR>
 ⌞ 透過推播通知功能，即時通知最新申購標。<BR>
-⌞ 透過 Facebook API 介接，實現快速登入功能、APP分享到Facebook功能。<BR>
+⌞ 透過 Facebook API 介接，實現快速登入功能、APP 分享到 Facebook 功能。<BR>
 ⌞ 透過 Google Analytics API 介接，觀察客戶行為，提高客戶的留存率及產品優化的流程。<BR>
 ⌞ 使用 Crashlytics 錯誤回報軟體，有效的監控程式 Bug，立即排除線上問題。<BR>
 ⌞ 應用程式可兼容 iPhone、iPad、Apple Watch，適用於各 Apple 行動裝置與手錶。<BR>
