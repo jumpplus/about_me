@@ -27,7 +27,7 @@
 - 帶領學員完成作品，並且從實機安裝到上架，輔導學員轉職或完成夢想。
 - 針對學員課程上的問題給予協助與建議。
 
-☐ 技術：Objective-C、JSON、PHP、MySQL
+☐ 技術：Objective-C、JSON、PHP、MySQL。
 
 ### 勤創科技股份有限公司 - iOS APP 開發工程師  (2011-10 ~ 2013-9)
 - 與客戶進行需求訪談，負責軟體需求分析、設計以及程式撰寫。
@@ -36,7 +36,7 @@
 - 控管軟體開發進度時程。
 - 帶領兩位同事從事 APP 的開發，並整合大型專案。
 
-☐ 技術：Objective-C、JSON、AJAX、SQLite
+☐ 技術：Objective-C、JSON、AJAX、SQLite。
 
 # 技能
 
