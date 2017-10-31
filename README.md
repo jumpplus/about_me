@@ -1,3 +1,5 @@
+ <img src="https://b790428.000webhostapp.com/image/profile.jpg" width = "200" height = "267" alt="陳姿羽" align=right />
+
 # 陳姿羽 (Jump)
 - Birthday： 1990/04/28
 - Education： 大同大學-資訊經營研究所
@@ -84,7 +86,7 @@
 
 # 作品
 
-- <a href="http://ecweb.azurewebsites.net/index.aspx" target="_blank"><B>六角西餐廳</B> (ASP.NET、RWD)</a> <BR>
+- <a href="http://ecweb.azurewebsites.net/index.aspx" target="_blank"><B>雅典西餐廳</B> (ASP.NET、RWD)</a> <BR>
 ⌞ 使用 HTML、CSS 來達成響應式的電子商務網頁版型。 <BR>
 ⌞ 使用 jQuery 打造互動性的網站效果。 <BR>
 ⌞ 根據網站需求，建立關聯式的資料庫與資料表，並且設計 DB Schema，與撰寫規格文件。<BR>
