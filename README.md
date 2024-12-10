@@ -1,12 +1,12 @@
  <img src="https://b790428.000webhostapp.com/image/profile.jpg" width = "200" height = "267" alt="陳姿羽" align=right />
 
 # 陳姿羽 (Jump)
-- Birthday： 1990/04/28
+- Birthday： XXXX/04/28
 - Education： 大同大學-資訊經營研究所
 - Location： Keelung (可在外縣市工作)
 - E-Mail： b790428@gmail.com
 - Personal Website： https://github.com/jumpplus
-- Mobile： 0916-626-337
+- Mobile： 09XX-XXX-XXX
 
 # 工作經歷
 
